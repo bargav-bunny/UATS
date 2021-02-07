@@ -4,9 +4,6 @@ import uuid
 import json
 
 
-from dotenv import load_dotenv
-
-load_dotenv()
 
 
 endpoint = "https://projread.cognitiveservices.azure.com/"
