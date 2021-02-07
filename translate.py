@@ -4,9 +4,6 @@ import uuid
 import json
 
 
-from dotenv import load_dotenv
-
-load_dotenv()
 
 # Don't forget to replace with your Cog Services subscription key!
 # If you prefer to use environment variables, see Extra Credit for more info.
