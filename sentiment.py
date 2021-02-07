@@ -3,9 +3,7 @@ import requests
 import uuid
 import json
 
-from dotenv import load_dotenv
 
-load_dotenv()
 
 # Don't forget to replace with your Cog Services subscription key!
 subscription_key = os.getenv("SENTIMENT_KEY")
